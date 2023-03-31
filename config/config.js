@@ -2,7 +2,7 @@ const NodeCache = require('node-cache')
 
 const config = {
     prefix: '/',
-    openaikey: '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',
+    openaikey: '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',
     cache: new NodeCache({
         checkperiod: 10000,
         deleteOnExpire: true
